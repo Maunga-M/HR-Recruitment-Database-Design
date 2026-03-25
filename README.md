@@ -19,7 +19,7 @@ The database captures the full recruitment lifecycle from job openings and candi
 
 ## Schema
 
-The interactive schema diagram is available on dbdiagram.io: [View Schema](https://dbdiagram.io/your-link-here)
+The interactive schema diagram is available on dbdiagram.io: https://dbdiagram.io/d/Recruitment-69c198fd78c6c4bc7a4c08e0
 
 The schema contains 14 tables organised around the recruitment process. Key design decisions include:
 
